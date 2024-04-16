@@ -1,0 +1,9 @@
+name: mytools
+version: '${version}'
+main: fr.mynosci.mytools.Mytools
+api-version: '1.20'
+commands:
+  iteminfo:
+    description: Item info
+  locinfo:
+    description: Location Info
