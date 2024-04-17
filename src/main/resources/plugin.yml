@@ -7,3 +7,5 @@ commands:
     description: Item info
   locinfo:
     description: Location Info
+  blockinfo:
+    description: Block info

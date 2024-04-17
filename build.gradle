@@ -2,8 +2,8 @@ plugins {
     id 'java'
 }
 
-group = 'fr.cms-network'
-version = '1.0-SNAPSHOT'
+group = 'fr.mynosci'
+version = '0.2-alphadev'
 
 repositories {
     mavenCentral()
